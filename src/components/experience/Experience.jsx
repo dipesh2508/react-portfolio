@@ -48,6 +48,38 @@ const Experience = () => {
 
         {/* backend technologies */}
         <div className="experience__backend">
+        <h3>Backend Development</h3>
+            <div className="experience__content">
+              <article className="experience__details">
+                <BsPatchCheckFill />
+                <h4>Node JS</h4>
+                <small className='text-light'>Experienced</small>
+              </article>
+
+              <article className="experience__details">
+                <BsPatchCheckFill />
+                <h4>Express JS</h4>
+                <small className='text-light'>Intermediate</small>
+              </article>
+
+              <article className="experience__details">
+                <BsPatchCheckFill />
+                <h4>MongoDB</h4>
+                <small className='text-light'>Intermediate</small>
+              </article>
+
+              <article className="experience__details">
+                <BsPatchCheckFill />
+                <h4>Postman</h4>
+                <small className='text-light'>Experienced</small>
+              </article>
+
+              <article className="experience__details">
+                <BsPatchCheckFill />
+                <h4>Git</h4>
+                <small className='text-light'>Experienced</small>
+              </article>  
+            </div>
 
         </div>
       </div>
