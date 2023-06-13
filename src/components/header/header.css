@@ -63,6 +63,8 @@ header{
     font-size: 0.9rem;
 }
 
+/* responsiveness */
+
 @media screen and (max-width: 1024px){
     header{
         height: 68vh;
