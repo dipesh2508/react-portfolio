@@ -50,7 +50,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Create HiFi Mockups for Website.</p>
+              <p>Create High-Fidelity Mockups for Website.</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
@@ -66,7 +66,7 @@ const Services = () => {
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Integrating data from various back-end services and databases</p>
+              <p>Integrating data from back-end services and databases</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
@@ -85,15 +85,15 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Create formal Documentation related to product and events.</p>
+              <p>Create Documentation related to product and events.</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Create technical analysis for research purposes.</p>
+              <p>Perform Technical analysis for research purposes.</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Create clear and effective reports.</p>
+              <p>Create clear, consise and effective reports.</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
