@@ -34,7 +34,7 @@ const data = [
   {
     avatar: AVTR4,
     name: 'Kislay Gupta',
-    review: "Dipesh is my go to guy whenever I need some sort of help in website design work, he understand my needs and fulfills them with absolute accuracy, due to his brilliance command on latest technologies used nowadays, making his skills on par the industry mark."
+    review: "Dipesh is my go-to guy whenever I need some sort of help in work related to website design, he understand my needs and fulfills them with absolute accuracy, due to his brilliance command on latest technologies used nowadays, making his skills are on par the industry level."
   }
 ]
 

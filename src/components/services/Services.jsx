@@ -54,7 +54,7 @@ const Services = () => {
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Create aesthetically pleasing Front End</p>
+              <p>Create aesthetically pleasing Front End.</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
@@ -62,11 +62,11 @@ const Services = () => {
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Writing and reviewing code for sites</p>
+              <p>Writing and reviewing code for sites.</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
-              <p>Integrating data from back-end services and databases</p>
+              <p>Integrating data from back-end services and databases.</p>
             </li>
             <li>
               <GiCheckMark className='service__list-icon' />
