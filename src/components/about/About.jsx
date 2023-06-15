@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            Passionate second-year Bachelor's of Engineering student specializing in Computer Science at Chandigarh University. Experienced Secretary of IEEE Computer Society, Chandigarh Chapter. Skilled in MERN Stack, Graphics Design, Research publication, and Effective leadership. Seeking opportunities to contribute expertise and expand knowledge.
+            Passionate second-year Bachelor's of Engineering student specializing in Computer Science at Chandigarh University. Experienced Secretary of IEEE Computer Society, Chandigarh University Chapter. Skilled in MERN Stack, Graphics Design, Research publication, and Effective leadership. Seeking opportunities to contribute expertise and expand knowledge.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
