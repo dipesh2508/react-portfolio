@@ -34,7 +34,7 @@ header{
 .header__socials::after{
     content: "";
     width: 1px;
-    height: 2rem;
+    height: 3rem;
     background: var(--color-primary);
 }
 
@@ -60,7 +60,7 @@ header{
     bottom: 5rem;
     transform: rotate(90deg);
     font-weight: 300;
-    font-size: 0.9rem;
+    font-size: 1rem;
 }
 
 /* responsiveness */
