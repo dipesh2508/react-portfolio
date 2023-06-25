@@ -39,9 +39,9 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: 'OLA pricing',
-    github: 'https://github.com/dipesh2508/ola',
-    demo: 'https://dipesh2508.github.io/ola/'
+    title: 'Quiz App',
+    github: 'https://github.com/dipesh2508/React-Quiz',
+    demo: 'https://dipesh2508.github.io/React-Quiz/'
   },
   {
     id: 6,
@@ -68,8 +68,8 @@ const Portfolio = () => {
           </div>
           <h3>{title}</h3>
           <div className="portfolio__item-cta">
-            <a href={github} className='btn' target='_blank'>GitHub</a>
-            <a href={demo} className="btn btn-primary" target='_blank'>Demo</a>
+            <a href={github} className='btn' target='_blank' rel="noreferrer">GitHub</a>
+            <a href={demo} className="btn btn-primary" target='_blank' rel="noreferrer">Demo</a>
           </div>
         </article>
           )
