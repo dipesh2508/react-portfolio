@@ -17,7 +17,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>HTML</h4>
+                <h4>React JS</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
@@ -25,7 +25,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>CSS</h4>
+                <h4>Tailwind CSS</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -41,7 +41,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Node JS</h4>
+                <h4>Next JS</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -49,7 +49,7 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>React JS</h4>
+                <h4>Node JS</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -95,6 +95,14 @@ const Experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
+                <h4>Figma</h4>
+                <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
                 <h4>Git</h4>
                 <small className='text-light'>Experienced</small>
               </div>
@@ -116,9 +124,7 @@ const Experience = () => {
               </div>
             </article>
 
-
           </div>
-
         </div>
       </div>
     </section>
